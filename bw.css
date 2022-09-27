@@ -8,8 +8,10 @@ color:#0f0539;
 
 #main-img{
 border:5px solid pink;
-border-radius:40%;
+border-radius:200%;
 margin-bottom:15px;
+height:500px;
+width:400px;
 }
 #age,#dob{
 background:pink;
